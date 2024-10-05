@@ -1,5 +1,5 @@
 # ShoeDesign
-![alt tag](blob:https://imgur.com/0bb6eb92-938d-46e3-b487-4a764fc7813b)
+![alt tag](https://i.imgur.com/jAEj1Cz.png)
 How It's Made: Tech used: HTML, CSS, JavaScript using HTML5 UP! Template
 
 Lessons Learned:
